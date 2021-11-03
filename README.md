@@ -27,7 +27,7 @@
 Use the "requirements.txt" file to install the requirements
 
 ```sh
-sudo pip3 install requirements.txt
+sudo pip3 install -r requirements.txt
 ```
 
 ## Usage
